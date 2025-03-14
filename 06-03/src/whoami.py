@@ -24,4 +24,4 @@ I hope that my journey serves as an inspiration, and that the knowledge I've gai
     )
 
 with col2:
-    st.image("../assets/me.png")
+    st.image("https://media.licdn.com/dms/image/v2/D4D03AQF2T4vAEC5d2A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728334916424?e=1747267200&v=beta&t=37yULYckDnOXfNWzQ8vJ3yxsKbnXlnxCRRBbwUQk2zc")
