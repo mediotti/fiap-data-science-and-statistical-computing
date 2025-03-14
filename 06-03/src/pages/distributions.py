@@ -1,13 +1,8 @@
-from pathlib import Path
 import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 from scipy import stats
-import plotly.express as px
-import plotly.graph_objects as go
-from streamlit_extras.app_logo import add_logo
 
 # Function to load data
 @st.cache_data
